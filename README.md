@@ -34,3 +34,7 @@ A generic, anonymized write-up of how to move a large, live React/Next.js applic
 ## A note on AI-assisted migration
 
 The task template is written so that a coding agent can execute a single route at a time. The leverage is in the written plan and the automated checks, not in the agent. A human still reviews every change before it merges.
+
+## License
+
+[MIT](LICENSE)
