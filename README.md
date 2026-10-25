@@ -1,5 +1,7 @@
 # From Redux Saga to TanStack Query: a migration playbook
 
+![Redux Saga to TanStack Query: Endpoints, API calls, Query keys, Service hooks, Helpers, UI](assets/banner.jpg)
+
 A generic, anonymized write-up of how to move a large, live React/Next.js application from Redux Saga to TanStack React Query without freezing feature work, and how to keep the result from decaying.
 
 > **Everything here is illustrative.** "Acme Exchange" is a fictional product, and every endpoint, component and key name is a placeholder. Nothing is copied from any employer's code, documents, tickets or systems, and there are no real metrics. The value is the method.
